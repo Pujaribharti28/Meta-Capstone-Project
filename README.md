@@ -1,2 +1,1 @@
-# Meta-Capstone-Project
-Reserve a table on Little Lemon Website
+# My capstone project for the Meta Front-End Developer Professional Certificate
